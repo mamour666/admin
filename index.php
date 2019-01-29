@@ -31,7 +31,7 @@
             </div>
 
         </nav>
-    <body style="background-color:#24a2b7;">
+    <body style="background-color:#2ecc71;">
         <div class="container admin">
         <div class="row">
             <h1><strong>All People</strong><a></a></h1>
