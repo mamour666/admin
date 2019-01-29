@@ -25,7 +25,7 @@
                      <ul class="nav navbar-nav">
                         <li><a href="#">Navbar</a></li>
                         <li><a href="#">Home</a></li>
-                        <li><a href="create.php">Create person</a></li>
+                        <li><a href="create.php">Add person</a></li>
                      </ul>
                 </div>
             </div>
